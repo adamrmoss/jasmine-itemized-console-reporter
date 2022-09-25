@@ -1,10 +1,11 @@
 {
     "name": "jasmine-itemized-console-reporter",
-    "version": "0.2.0",
+    "version": "0.2.3",
     "description": "Jasmine Itemized Console Reporter",
+    "keywords": ["jasmine", "console", "reporter"],
     "type": "module",
-    "main": "index.js",
-    "types": "index.d.ts",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
     "files": [
         "dist"
     ],

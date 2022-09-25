@@ -4,7 +4,7 @@ import {
     okChalk,
     savingChalk,
     titleChalk
-} from "./text-styles";
+} from "./text-styles.js";
 
 import {
     CustomReportExpectation,
@@ -21,9 +21,9 @@ import {
     Result,
     SpecResult,
     SuiteResult
-} from "./jasmine";
+} from "./jasmine.js";
 
-import { itemizedConsoleReporter } from "./itemized-console-reporter";
+import { itemizedConsoleReporter } from "./itemized-console-reporter.js";
 
 export type
 {
