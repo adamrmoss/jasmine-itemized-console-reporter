@@ -1,6 +1,6 @@
 {
     "name": "jasmine-itemized-console-reporter",
-    "version": "0.2.3",
+    "version": "0.3.2",
     "description": "Jasmine Itemized Console Reporter",
     "keywords": ["jasmine", "console", "reporter"],
     "type": "module",
