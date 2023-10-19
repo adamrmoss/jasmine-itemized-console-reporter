@@ -2,7 +2,11 @@
     "name": "jasmine-itemized-console-reporter",
     "version": "0.3.2",
     "description": "Jasmine Itemized Console Reporter",
-    "keywords": ["jasmine", "console", "reporter"],
+    "keywords": [
+        "jasmine",
+        "console",
+        "reporter"
+    ],
     "type": "module",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
@@ -26,7 +30,6 @@
     },
     "devDependencies": {
         "@types/node": "^14.14.31",
-        "ts-node": "^10.9.1",
         "typescript": "^4.8.3"
     }
 }
